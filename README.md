@@ -2,10 +2,6 @@
 
 > 서버 없이 브라우저만으로 동작하는 올인원 조별 과제 협업 툴
 
-[Project Status](https://img.shields.io/badge/Status-Active-green)
-[Tech Stack](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-blue)
-[License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ## 프로젝트 소개
 
 **TeamWork**는 별도의 서버 구축이나 로그인 과정 없이, 브라우저의 저장소(LocalStorage)를 활용하여 팀 프로젝트를 효율적으로 관리할 수 있는 웹 애플리케이션입니다.
