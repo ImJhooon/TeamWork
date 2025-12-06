@@ -34,9 +34,9 @@
 
 | 구분 | 기술 | 설명 |
 | :-- | :-- | :-- |
-| **Frontend** | ![HTML5]| 시맨틱 마크업 구조 설계 |
-| **CSS**| ![CSS3]| CSS Variables, Animations, Responsive Design |
-| **Java Script**| ![JavaScript]| ES6+, Module Pattern, LocalStorage API |
-| **Library** | ![TailwindCSS]| 유틸리티 퍼스트 CSS 프레임워크 |
-| **Icons** | ![FontAwesome] | UI 아이콘 사용 |
+| **Frontend** | [HTML5]| 시맨틱 마크업 구조 설계 |
+| **CSS**| [CSS3]| CSS Variables, Animations, Responsive Design |
+| **Java Script**| [JavaScript]| ES6+, Module Pattern, LocalStorage API |
+| **Library** | [TailwindCSS]| 유틸리티 퍼스트 CSS 프레임워크 |
+| **Icons** | [FontAwesome] | UI 아이콘 사용 |
 | **API** | **Korean Advice API** | 한글 명언 데이터 제공 |
